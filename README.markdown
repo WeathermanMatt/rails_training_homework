@@ -4,8 +4,8 @@ This is the skeleton application to use for Enable Labs Rails training sessions.
 
 ## Requirements:
 
-Ruby 2.0
-Bundler
+- Ruby 2.0
+- Bundler
 
 ## Getting Started
 
