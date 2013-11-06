@@ -13,10 +13,10 @@ You will need a working copy of Ruby 2, and Bundler.
 
 Change directory to the project and:
 
-% bundle install
-% rake db:create
-% rake db:migrate
-% rake spec
+    % bundle install
+    % rake db:create
+    % rake db:migrate
+    % rake spec
 
 You should see a message that there were no examples found.
 
